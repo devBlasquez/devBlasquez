@@ -1,4 +1,4 @@
-## Salve!!Eu sou Maurício Marques, estudante de programação!!
+## Salve!! Eu sou Maurício Marques, estudante de programação!!
 
 - 🌱 Eu estou atualmente estudando JavaScript
 - 😄 Pronouns: ele/dele
