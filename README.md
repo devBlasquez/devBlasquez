@@ -3,11 +3,21 @@
 - 🌱 Eu estou atualmente estudando JavaScript
 - 😄 Pronouns: ele/dele
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+<!--
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" width ="400em" src="https://github-readme-stats.vercel.app/api?username=devBlasquez&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width ="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBlasquez&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
+
+-->
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Blasquez-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
