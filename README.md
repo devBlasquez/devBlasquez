@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats-devblasquez.vercel.app/api?username=devBlasquez&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-devblasquez.vercel.app/api?username=devBlasquez&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats-devblasquez.vercel.app/api/top-langs/?username=devBlasquez&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </a>
 
 <!--
