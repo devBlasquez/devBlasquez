@@ -2,13 +2,14 @@
 
 - 🌱 Eu estou atualmente estudando JavaScript
 - 😄 Pronouns: ele/dele
-
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-devblasquez.vercel.app/api?username=devBlasquez&repo=github-readme-stats" />
+  <img height="180em" width ="400em" src="https://github-readme-stats-devblasquez.vercel.app/api?username=devBlasquez&repo=github-readme-stats&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-devblasquez.vercel.app/api/top-langs/?username=devBlasquez&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="180em" width ="400em" src="https://github-readme-stats-devblasquez.vercel.app/api/top-langs/?username=devBlasquez&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </a>
+</div>
 
 <!--
 <div align="center">
