@@ -1,6 +1,6 @@
 ## Salve... Salve!! Eu sou Maurício Marques, estudante de programação!!
 
-- 🌱 Eu estou atualmente estudando JavaScript
+- 🌱 Eu sigo estudando JavaScript, HTML e CSS! Para utilizar bem os frameworks da linguagem.
 - 😄 Pronouns: ele/dele
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
